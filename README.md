@@ -3,7 +3,7 @@ Flappy Bird game clone using SFML as multimedia library. It was created followin
 
 ## Execution
 
- To play, execute **bin/SFML Flappy Bird.exe**.
+ Execute **bin/SFML Flappy Bird.exe**.
 
 ![Menu](screenshots/Menu.png)
 ![Gameplay](screenshots/Gameplay.png)
