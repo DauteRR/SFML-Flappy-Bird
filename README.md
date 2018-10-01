@@ -5,6 +5,6 @@ Flappy Bird game clone using SFML as multimedia library. It was created followin
 
  Execute **bin/SFML Flappy Bird.exe**.
 
-<img src="gifs/1.gif" width="900" height="1254" />
+<img src="gifs/1.gif" width="450" height="627" />
 
-<img src="gifs/2.gif" width="900" height="1254" />
+<img src="gifs/2.gif" width="450" height="627" />
